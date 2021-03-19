@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/inernet_shop_phones/static/css/main.855edcfb.chunk.css",
+    "main.js": "/inernet_shop_phones/static/js/main.33ba757a.chunk.js",
+    "main.js.map": "/inernet_shop_phones/static/js/main.33ba757a.chunk.js.map",
+    "runtime~main.js": "/inernet_shop_phones/static/js/runtime~main.36088890.js",
+    "runtime~main.js.map": "/inernet_shop_phones/static/js/runtime~main.36088890.js.map",
+    "static/js/2.cd03ecc9.chunk.js": "/inernet_shop_phones/static/js/2.cd03ecc9.chunk.js",
+    "static/js/2.cd03ecc9.chunk.js.map": "/inernet_shop_phones/static/js/2.cd03ecc9.chunk.js.map",
+    "index.html": "/inernet_shop_phones/index.html",
+    "precache-manifest.a6a8607b20228bda6cf0a9236bb6ebc8.js": "/inernet_shop_phones/precache-manifest.a6a8607b20228bda6cf0a9236bb6ebc8.js",
+    "service-worker.js": "/inernet_shop_phones/service-worker.js",
+    "static/css/main.855edcfb.chunk.css.map": "/inernet_shop_phones/static/css/main.855edcfb.chunk.css.map"
+  }
+}
